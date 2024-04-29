@@ -41,8 +41,8 @@ SocialApp to aplikacja społecznościowa inspirowana funkcjonalnością Facebook
 
 ## Wygląd
 
-###![Ekran logowania](ss/Logowanie.PNG)
-###![Ekran wiadomości](ss/msg.PNG)
-###![Ekran ustawień](ss/settings.PNG)
+### ![Ekran logowania](ss/Logowanie.PNG)
+### ![Ekran wiadomości](ss/msg.PNG)
+### ![Ekran ustawień](ss/settings.PNG)
 
 
