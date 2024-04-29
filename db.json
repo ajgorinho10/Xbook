@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "login": "email@email.com",
+      "haslo": "haslo1",
+      "name": "Filip Wiecha",
+      "id": 1
+    },
+    {
+      "login": "janek123",
+      "haslo": "haslo123",
+      "name": "Jan Nowak",
+      "id": 3
+    },
+    {
+      "login": "",
+      "haslo": "",
+      "name": "Pusty",
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "senderId": 2,
+      "reciverId": 1,
+      "content": "Gghhh",
+      "id": 1
+    },
+    {
+      "senderId": 2,
+      "reciverId": 3,
+      "content": "Siema",
+      "id": 2
+    },
+    {
+      "senderId": 2,
+      "reciverId": 3,
+      "content": "Hdhd",
+      "id": 3
+    }
+  ],
+  "posty": [
+    {
+      "userId": 2,
+      "content": "Siema",
+      "data": "20.01.2024, 23:33:54",
+      "like": 0,
+      "czylike": true,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "content": "Co tam?",
+      "data": "20.01.2024, 23:34:00",
+      "like": 0,
+      "czylike": true,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "content": "Aha",
+      "data": "20.01.2024, 23:34:10",
+      "like": 0,
+      "czylike": true,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "content": "Siema",
+      "data": "20.01.2024, 23:33:54",
+      "like": 0,
+      "czylike": true,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "content": "Co tam?",
+      "data": "20.01.2024, 23:34:00",
+      "like": 0,
+      "czylike": true,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "content": "Aha",
+      "data": "20.01.2024, 23:34:10",
+      "like": 0,
+      "czylike": true,
+      "id": 6
+    }
+  ],
+  "znajomi": [
+    {
+      "user1": 3,
+      "user2": 2,
+      "x": 2,
+      "id": 1
+    },
+    {
+      "user1": 3,
+      "user2": 1,
+      "x": 2,
+      "id": 2
+    },
+    {
+      "user1": 2,
+      "user2": 1,
+      "x": 2,
+      "id": 3
+    }
+  ],
+  "photos": []
+}
